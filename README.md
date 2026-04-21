@@ -1,6 +1,6 @@
 ## Timetable Generator v2 — Java Swing
 
-A B.Tech CS-level desktop scheduling application using a **Greedy + Backtracking**
+A scheduling application using a **Greedy + Backtracking**
 Constraint Satisfaction Problem (CSP) algorithm, conflict detection, PDF export,
 and dark mode.
 
